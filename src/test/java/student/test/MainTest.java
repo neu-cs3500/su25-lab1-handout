@@ -1,4 +1,4 @@
-package vehicle.test;
+package student.test;
 
 import org.junit.Test;
 
